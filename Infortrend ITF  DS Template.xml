@@ -3446,7 +3446,7 @@ or&#13;
 {Template_Infortrend_EonStore_DS:redCtlrStatus.last(0)}=191</expression>
             <recovery_mode>0</recovery_mode>
             <recovery_expression/>
-            <name>Проблема с контроллером</name>
+            <name>Controller Problem</name>
             <correlation_mode>0</correlation_mode>
             <correlation_tag/>
             <url/>
